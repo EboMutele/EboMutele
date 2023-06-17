@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ebo Mutele, an all round tech-enthusiast mainly focused on QA(Automation)
+- 👋 Hi, I’m Ebo Mutele, an all round tech-enthusiast mainly focused on QA
 
 <!---
 EboMutele/EboMutele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
